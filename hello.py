@@ -7,3 +7,4 @@ while (answer != guess):
     print("You are wrong.")
     guess = int(input("Please enter another integer:"))
 print("You are right!")
+print("Congratulations!")
